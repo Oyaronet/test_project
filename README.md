@@ -1,2 +1,2 @@
-# test_project
+# Test Project
 Initial test project
